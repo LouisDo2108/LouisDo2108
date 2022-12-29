@@ -3,7 +3,7 @@
 你好，我是杜俊力(又叫 LouisDo2108)。(Proficient)\
 Hi, I am Tuan-Luc Huynh, aka LouisDo2108. (Proficient)\
 Xin chào, mình là Huỳnh Tuấn Lực (LouisDo2108). (Native) \
-こんにちは, 私はルイスです. (Elementary)\
+こんにちは、ルイスです. (Elementary)\
 Halo, ich bin Tuan-Luc Huynh (LouisDo2108). (Noob) \
 
 # Achievements
