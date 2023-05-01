@@ -4,7 +4,7 @@ Xin chào, mình là Huỳnh Tuấn Lực (LouisDo2108). (Native) \
 你好，我是杜俊力(又叫 LouisDo2108)。(Proficient)\
 Hi, I am Tuan-Luc Huynh, aka LouisDo2108. (Proficient)\
 こんにちは、ルイスです. (Elementary)\
-Halo, ich bin Tuan-Luc Huynh (LouisDo2108). (Noob)\
+Halo, ich bin Tuan-Luc Huynh (LouisDo2108). (Noob)
 
 # Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=LouisDo2108&theme=radical)](https://github.com/LouisDo2108/github-profile-trophy)
