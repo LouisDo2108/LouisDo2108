@@ -2,7 +2,7 @@
 你好，我係杜俊力.
 Hi, I am Tuan-Luc Huynh.
 
-I am working on my bachelor thesis and currently being active on a fork of nnUNet. You can find it here [my_nnUNet_fork](https://github.com/LouisDo2108/nnUNet/tree/tuanluc).
+I have done my Bachelor of Science thesis: "Efficient 3D Brain Tumor Segmentation using 2D Pre-trained with ACS Convolutions". The code is available here [ACS nnU-Net](https://github.com/LouisDo2108/nnUNet/tree/tuanluc).
 
 I am pursuing a PhD scholarship.
 
