@@ -2,10 +2,6 @@
 你好，我係杜俊力.
 Hi, I am Tuan-Luc Huynh.
 
-I have done my Bachelor of Science thesis: "Efficient 3D Brain Tumor Segmentation using 2D Pre-trained with ACS Convolutions". The code is available here [ACS nnU-Net](https://github.com/LouisDo2108/nnUNet/tree/tuanluc).
-
-I am pursuing a PhD scholarship.
-
 # Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=LouisDo2108&theme=radical)](https://github.com/LouisDo2108/github-profile-trophy)
 
