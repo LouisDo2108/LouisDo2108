@@ -1,7 +1,3 @@
-# Greeting
-你好，我係杜俊力.
-Hi, I am Tuan-Luc Huynh.
-
 # Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=LouisDo2108&theme=radical)](https://github.com/LouisDo2108/github-profile-trophy)
 
