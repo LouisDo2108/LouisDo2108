@@ -3,7 +3,8 @@
 | ------------- | ------------- |
 
 # Current research
-Efficient Information Retrieval. Always happy to transfer my skills to other relevant domains and applications.
+Efficient Information Retrieval. 
+Always happy to transfer my skills to other relevant domains and applications.
 
 # Open to
-Applied Scientist, Data Scientist, Research Engineer.
+Applied Scientist, Data Scientist, and Research Engineer roles.
